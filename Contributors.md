@@ -74,6 +74,7 @@
 - [Bhanu Singh](https://github.com/bhanusingh008)
 - [Kashyap Patel](https://github.com/kashyap5551)
 - [Ajaydeep Singh](https://github.com/Ajay1-me)
+- [Michael Chua] (https://github.com/michael0973)
 - [Eze-DP](https://github.com/Eze-DP)
 - [Lasindu Weerasinghe](https://github.com/LassazVegaz)
 - [Harsh Kumar Singh](https://github.com/dragoon4890)
